@@ -26,6 +26,13 @@
 <a href="https://devicon.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/ubuntu/ubuntu-original.svg" alt="ubuntu" width="40" height="40"/> </a>
 <a href="https://devicon.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/archlinux/archlinux-original.svg" alt="archlinux" width="40" height="40"/> </a>
 
+<h3 align="left">IDEs and Text Editors:</h3>
+<a href="https://devicon.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" alt="vscode" width="40" height="40"/> </a>
+<a href="https://devicon.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/intellij/intellij-original.svg" alt="IntelliJ" width="40" height="40"/> </a>
+<a href="https://devicon.dev/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vim/vim-original.svg" alt="vim" width="40" height="40"/> </a>
+
+<p>&nbsp;</p>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=fuwad9096&show_icons=true&locale=en&layout=compact" alt="fuwad9096" /></p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=fuwad9096&show_icons=true&locale=en" alt="fuwad9096" /></p>
