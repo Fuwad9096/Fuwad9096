@@ -14,8 +14,6 @@
 <p align="left">
 <a href="https://linkedin.com/in/tasminfuwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="tasminfuwad" height="30" width="40" /></a>
 <a href="https://fb.com/tasmin hasan fuwad" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg" alt="tasmin hasan fuwad" height="30" width="40" /></a>
-<a href="https://instagram.com/ta_s_min_31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="ta_s_min_31" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/fuwad tas31" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="fuwad tas31" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
